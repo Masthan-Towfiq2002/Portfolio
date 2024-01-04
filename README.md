@@ -10,7 +10,7 @@ This repository contains the files for my personal website.
 
 ## Usage
 
-To view the website, simply open the `index.html` file in a web browser.
+To view the website, simply open the `https://masthan-towfiq2002.github.io/Portfolio/` file in a web browser.
 
 ## Contributing
 
